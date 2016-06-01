@@ -1,0 +1,22 @@
+{
+  "name": "sbot",
+  "version": "1.0.0",
+  "description": "DiscBotBabes",
+  "main": "amaze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seynn/SBot.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Seynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seynn/SBot/issues"
+  },
+  "homepage": "https://github.com/Seynn/SBot#readme"
+}

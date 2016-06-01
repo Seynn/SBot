@@ -1,0 +1,7 @@
+tenc
+node_modules
+data/
+.idea/
+permissions.json
+config.json
+.gitconfig
